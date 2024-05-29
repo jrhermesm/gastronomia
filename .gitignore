@@ -1,0 +1,8 @@
+*.*~
+
+*.pyc
+
+pycache
+
+.idea
+
